@@ -1,1 +1,2 @@
-# personal_website
+# personal-website
+done using gsap animations 
